@@ -2,7 +2,7 @@
 
 DreamFunder is an innovative blockchain-based crowdfunding platform that revolutionizes traditional crowdfunding by leveraging Ethereum smart contracts to create a transparent, secure, and efficient funding ecosystem. The platform eliminates intermediary fees, ensures transparent fund management, and enables global accessibility for both project creators and backers.
 
-![DreamFunder Homepage](screenshots/homepage.png)
+![DreamFunder Homepage](images/homepage1.png)
 
 ## 🌟 Key Features
 

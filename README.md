@@ -67,7 +67,7 @@ DreamFunder is an innovative blockchain-based crowdfunding platform that revolut
 ### Homepage
 
 ![Homepage](images/homepage1.png)
-(images/homepage2.png)
+![Homepage](images/homepage2.png)
 
 ### Campaign Creation
 

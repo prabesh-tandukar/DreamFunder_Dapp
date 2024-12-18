@@ -20,13 +20,6 @@ DreamFunder is an innovative blockchain-based crowdfunding platform that revolut
   - Responsive design for all devices
   - MetaMask wallet integration
 
-- **Advanced Security**
-
-  - Smart contract auditing
-  - Multi-signature requirements for large transactions
-  - Automated compliance checks
-  - Secure fund distribution
-
 - **Global Accessibility**
   - Cross-border transactions
   - Multiple campaign categories
@@ -76,16 +69,16 @@ DreamFunder is an innovative blockchain-based crowdfunding platform that revolut
 
 ### Campaign Details
 
-![Campaign Creation](images/campaignsDetail.png.png)
+![Campaign Creation](images/campaignsDetail.png)
 ![Campaign Creation](images/CampaignsDetailss.png)
 
 ### User Dashboard
 
-![User Dashboard](screenshots/user-dashboard.png)
+![User Dashboard](images/dashboard.png)
 
-## 🎥 Demo
+<!-- ## 🎥 Demo
 
-[Link to video demonstration](your-video-link-here)
+[Link to video demonstration](your-video-link-here) -->
 
 ## ✨ Main Features in Detail
 
@@ -109,16 +102,13 @@ DreamFunder is an innovative blockchain-based crowdfunding platform that revolut
 
 - Category-based project discovery
 - Search functionality
-- Automated compliance checks
-- Multi-wallet support
-- Real-time notifications
 
 ## 🚀 Getting Started
 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/dreamfunder.git
+git clone https://github.com/prabesh-tandukar/DreamFunder_Dapp.git
 ```
 
 2. Install dependencies
@@ -151,41 +141,13 @@ npx hardhat test
 
 # Frontend Tests
 npm run test
-```
 
-## 📚 Documentation
-
-- [Smart Contracts Documentation](docs/smart-contracts.md)
-- [API Documentation](docs/api.md)
-- [Frontend Documentation](docs/frontend.md)
-
-## 🤝 Contributing
-
-Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 💡 Future Development
-
-- Layer 2 scaling implementation
-- Additional blockchain network support
-- Enhanced analytics dashboard
-- Mobile application development
-- Cross-chain functionality
-
-## 🏆 Achievements
-
-- Successfully processed over X transactions
-- Reduced transaction fees to under 2%
-- Achieved 100% smart contract test coverage
-- Maintained sub-3 second transaction confirmation times
 
 ## 📞 Contact
 
 For any queries or suggestions, please reach out:
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](your-linkedin-profile)
-- Portfolio: [Your Portfolio](your-portfolio-website)
+- Email: tandukarprabesh@gmail.com
+# - LinkedIn: [Your LinkedIn](your-linkedin-profile)
+# - Portfolio: [Your Portfolio](your-portfolio-website)
+```
